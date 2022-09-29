@@ -2,7 +2,7 @@
 Bootstrap landing page design for Beginer Web Development Session IUBAT.
 - 3rd Project
 
-Design Inspired
+Design Inspired. Original project [Bradtraversy](https://github.com/bradtraversy/bootstrap-bootcamp-website)
 
 ### Features
 - Only Bootstrap
@@ -11,5 +11,5 @@ Design Inspired
 - Bootstrap Icons
 
 ## Website Preview
-### [Frontend Bootcamp](#)
+### [Frontend Bootcamp](https://shz-code.github.io/frontend-bootcamp/)
 ![Frontend Bootcamp](./website-preview.jpeg)
